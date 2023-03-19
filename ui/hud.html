@@ -29,8 +29,8 @@
     <script type="text/javascript">
         $("document").ready(function() {
 
-            var sizeWater = 224.90;
-            var sizeFood = 240.0;
+            var sizeWater = 42;
+            var sizeFood = 42;
 
             if ($(window).width() == 1920 && $(window).height() == 1080) {
 
@@ -47,7 +47,7 @@
                 size: sizeWater,
                 thickness: 4,
                 fill: {
-                    gradient: ['#05D5EA']
+                    color: ['#FFFFFF']
                 },
             });
             barfood.circleProgress({
@@ -55,7 +55,7 @@
                 size: sizeFood,
                 thickness: 4,
                 fill: {
-                    color: ['#FF5733']
+                    color: ['#FFFFFF']
                 },
             });
 

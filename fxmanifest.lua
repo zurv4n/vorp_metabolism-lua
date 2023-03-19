@@ -17,6 +17,8 @@ files {
   'ui/css/style.css',
   'ui/js/circle-progress.js',
   'ui/js/circle-progress.min.js',
+  'ui/img/water.png',
+  'ui/img/food.png',
 }
 ui_page 'ui/hud.html'
 

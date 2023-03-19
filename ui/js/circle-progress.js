@@ -65,7 +65,7 @@
      * @type {number|string}
      * @default 'auto'
      */
-    thickness: 'auto',
+    thickness: '8',
 
     /**
      * Fill of the arc. You may set it to:
