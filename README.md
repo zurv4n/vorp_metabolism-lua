@@ -4,7 +4,7 @@ If you have the C# version of the script and want to replace it, it's just drag 
 
 Hunger & Thirst system with metabolism included.
 
-![](https://imgur.com/a/DSw7zjK)
+![](https://bit.ly/3n3LWtD)
 
 [Discord VORP](https://discord.gg/23MPbQ6)
 
