@@ -25,17 +25,15 @@ body {
 .pb-vorp-water {
     display: flex;
     position: absolute;
-    bottom: 0.7vw;
-    left:16vw;
-	background-image:url(../img/water.png);
-	background-repeat: no-repeat;
+    bottom: 0;
+    padding-bottom: 1.65vw;
+    padding-left: 3.047vw;
 }
 
 .pb-vorp-food {
     display: flex;
     position: absolute;
-    bottom: 0.7vw;
-    left:13vw;
-	background-image:url(../img/food.png);
-	background-repeat: no-repeat;
+    bottom: 0;
+    padding-bottom: 1.20vw;
+    padding-left: 2.65vw;
 }
